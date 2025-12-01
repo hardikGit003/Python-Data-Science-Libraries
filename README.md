@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner1.png" alt="Python Data Science Libraries Banner" />
+  <img src="banner.png.png" alt="Python Data Science Libraries Banner" />
 </p>
 
 # 🐍 Python Data Science Libraries – Self Learning Hub
