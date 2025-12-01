@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Python Data Science Libraries Banner" />
+</p>
+
 # 🐍 Python Data Science Libraries – Self Learning Hub
 
 Welcome to my personal learning repository for **Python + Data Science**.
