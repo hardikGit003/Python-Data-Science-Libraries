@@ -14,13 +14,14 @@ This repo contains well–structured and beginner-friendly Jupyter notebooks cov
 ## 🚀 Quick Navigation
 > 🔽 Click any library below to directly explore its notebooks.
 
-| Library | Description | Folder Link |
-|--------|-------------|-------------|
-| 🧮 NumPy | Arrays, indexing, slicing, broadcasting, mathematical operations | 👉 [Open NumPy notebooks](./numpy/) |
-| 🧾 Pandas | DataFrames, data cleaning, missing values, grouping, merging, EDA | 👉 [Open Pandas notebooks](./pandas/) |
-| 📊 Matplotlib | Line, bar, scatter, histogram plots and custom styling | 👉 [Open Matplotlib notebooks](./matplotlib/) |
-| 🎨 Seaborn | Distribution plots, pairplot, regression plot, heatmaps | 👉 [Open Seaborn notebooks](./seaborn/) |
-| 📈 Statistics | Mean, median, variance, outliers, sampling, distributions | 👉 [Open Statistics notebooks](./stats/) |
+| Library | Description | Link |
+|--------|-------------|------|
+| 🧮 NumPy | Arrays, indexing, slicing, broadcasting, mathematical operations | 👉 [Open NumPy notebook](./numpy.ipynb) |
+| 🧾 Pandas | DataFrames, data cleaning, missing values, grouping, merging, EDA | 👉 [Open Pandas notebook](./pandas.ipynb) |
+| 📊 Matplotlib | Line, bar, scatter, histogram plots and custom styling | 👉 [Open Matplotlib notebook](./matplotlib.ipynb) |
+| 🎨 Seaborn | Distribution plots, pairplot, regression plot, heatmaps | 👉 [Open Seaborn notebook](./seaborn.ipynb) |
+| 📈 Statistics | Mean, median, variance, outliers, sampling, distributions | 👉 [Open Statistics notebook](./stats.ipynb) |
+
 
 ---
 
